@@ -1,0 +1,23 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+backend/.env
+
+# Django
+*.sqlite3
+*.log
+
+# Local test files
+backend/test_resume.txt
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# VS Code
+.vscode/
